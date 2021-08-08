@@ -1,4 +1,6 @@
-# Taller de Programación para alguien que no tiene idea pero quiere saber (guiado por otro que tampoco sabe mucho pero quiere aprender)
+# Taller de Programación<sup>*</sup>
+
+<sup>*</sup> para alguien que no tiene idea pero quiere saber (guiado por otro que tampoco sabe mucho pero quiere aprender)
 
 ## Modalidad: Taller "en vivo"
 
